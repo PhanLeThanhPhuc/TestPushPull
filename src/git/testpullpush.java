@@ -6,11 +6,11 @@ public class testpullpush {
 		// TODO Auto-generated method stub
 		System.out.println("Hello");
 		System.out.println("Hello1");
-<<<<<<< HEAD
+
 		System.out.println("Code ben nhanh 1 ne");
-=======
+
 		
->>>>>>> master
+
 	}
 
 }
